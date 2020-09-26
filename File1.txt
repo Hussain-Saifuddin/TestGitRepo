@@ -1,5 +1,6 @@
 
-Change1 :– commit with message as “Change1 in File1” 
+Change1 :– commit with message as “Change1 in File1 updated by teammate and they have added some new feature for login as assigned by the manager” 
+New line added by teamate when working on this new feature
 Change2 :– commit with message as “Change2 in File1” 
 Change3 :- Fixed by some teammate for Bug2 on master to test 3 way merge
 Change4 :- commit with message as "Change3 in File1"
