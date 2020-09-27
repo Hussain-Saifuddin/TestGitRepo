@@ -1,3 +1,4 @@
 Hello world
 Welcome to git
 This is pushed by teammate on the remote repository to check git pull action
+This is change to commit on local master to check Fetch command
